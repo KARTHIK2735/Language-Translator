@@ -17,7 +17,7 @@ pip install deep_translator tkinter
 ## Installation
 1. Clone this repository or download the script:
    ```
-   
+   git clone https://github.com/KARTHIK2735/Language-Translator.git
    cd language-translator
    ```
 2. Run the script:
@@ -37,7 +37,3 @@ pip install deep_translator tkinter
 
 ## Customization
 You can change the default theme color by modifying the `bg` property in the `configure` method and labels.
-
-## License
-This project is open-source and available under the MIT License.
-
